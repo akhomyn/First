@@ -4,6 +4,6 @@ var drawCats = function (howManyTimes){
 	}
 };
 
-drawCats(7);
+drawCats(9);
 
 //some coment
